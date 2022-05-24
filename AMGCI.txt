@@ -1,0 +1,112 @@
+AMGCI
+username:amgeeadmin
+Password:amg2@2!Elmp
+
+Dev server 
+username:mok
+Password:devstaging
+
+
+
+----------------------------------
+
+-----x--Cape Gazette---x----------
+
+Staging url:-http://amgeepub.ebizontech.biz/
+Dev staging url:- https://dev.capegazette.com/
+Live url:-https://www.capegazette.com/
+
+username: mok
+Password: devstaging
+
+-----Admin login Url------
+staging admin: http://amgeepub.ebizontech.biz/user/login
+Dev stagin credential: https://dev.capegazette.com/admin/login
+
+-----Author Credential--------
+ https://amgeepub.ebizontech.biz/user/login
+
+deepakpant/deepakpant@123
+amgeeadmin/amg2@2!Elmp
+
+ http://boothbayregister.ebizontech.biz/user/login
+
+deepakpant/deepakpant@123
+amgeeadmin/amg2@2!Elmp
+
+-----x--Cape Gazette---x----------
+
+
+Adobe   credential
+user name:- systems@amgci-llc.com
+paasword:- 	2@!3amgWert
+-----------------------------------
+staging sites AMGCI
+http://amgeepub.ebizontech.biz/
+http://penbaypilot.ebizontech.biz
+http://boothbayregister.ebizontech.biz
+
+Dev staging:- http://wiscassetnewspaper.ebizontech.biz
+Browser credential  
+username: mok
+Password: devstaging
+
+admin url
+
+admin credential 
+username:-amgeeadmin
+password:- amg2@2!Elmp
+
+assads
+
+http://sippican-theweektoday.ebizontech.biz
+http://dartmouth-theweektoday.ebizontech.biz
+http://wareham-theweektoday.ebizontech.biz
+http://capegazette.ebizontech.biz
+http://blockislandtimes.ebizontech.biz
+http://blockisland.ebizontech.biz
+
+/*-------------Article Deleted-------------------------------
+Note:- 	Suzi Thayer is the featured artist of May, June new  // this article was deleted for the test purpose
+URL:- http://boothbayregister.ebizontech.biz/article/suzi-thayer-featured-artist-may-june/159522
+
+----------------------------Article Deleted------------------------------*/
+//Caddara 
+
+caddra staging - >
+
+https://treat.allnewlb.com/#/admin/login
+
+caddra@smith.com - email
+pas -> abc123#
+
+------------------------------------------------------------------------------------------------------
+
+live site->
+https://bookapro.ebizontech.biz/LumenConnection/public/api/v1/ServiceProviderController/ServiceProvider
+
+b3AwoB4aKFPaTEXMp-LewYI
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsdW1lbi1qd3QiLCJzdWIiOiI2MGYwMmQ5NWU5OGJmNTQ0MGY0NjM2MTYiLCJpYXQiOjE2NTIxNzg1ODIsImV4cCI6MTY1MjE4MjE4Mn0.yoH3M8fHRLdetJcbh_2-b3AwoB4aKFPaTEXMp-LewYI
+
+post creation
+Flowpaper
+In design
+subscription
+
+..............................................
+http://admin-penbaypilot.ebizontech.biz
+http://admin-boothbayregister.ebizontech.biz
+http://admin-wiscassetnewspaper.ebizontech.biz
+http://admin-sippican-theweektoday.ebizontech.biz
+http://admin-dartmouth-theweektoday.ebizontech.biz
+http://admin-wareham-theweektoday.ebizontech.biz
+http://admin-capegazette.ebizontech.biz
+http://admin-blockislandtimes.ebizontech.biz
+http://admin-blockisland
+
+-----x----Wiscasset Newspaper----x-------
+
+deepak123/dee7055###
+
+
